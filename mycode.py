@@ -5,8 +5,10 @@ print("My most latest third line")
 
 print("change for second commit")
 
-print("change for third change")
+print("change for third commit")
 
-print("change for fourth changes")
+print("change for fourth commit")
 
-print("change for fifth change")
+print("change for fifth commit")
+
+print("change for seventh commit")
