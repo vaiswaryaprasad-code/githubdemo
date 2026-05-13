@@ -9,6 +9,10 @@ print("change for third commit")
 
 print("change for fourth commit")
 
-print("change for fifth commit")
+print("change for fifth change")
+
+print("changes for sixth changes")
 
 print("change for seventh commit")
+
+
